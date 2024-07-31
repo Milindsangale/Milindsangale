@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Milind Sangale</h1>
 <h3 align="center">Mechanical Engineer || DYPCOE Pune || Python || Java & DSA || JAVA Script || HTML || CSS || Microsoft Excel || Microsoft office 365 || Persuing JLPT N5</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milindsangale&label=Profile%20views&color=0e75b6&style=flat" alt="milindsangale" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=milindsangale" alt="milindsangale" /></a> </p>
@@ -27,4 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milindsangale&show_icons=true&locale=en" alt="milindsangale" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milindsangale&" alt="milindsangale" /></p>
-
