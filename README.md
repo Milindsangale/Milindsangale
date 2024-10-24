@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Milind</h1>
-<h2 align="center">Python || Java & DSA || JAVA Script || HTML || CSS || Web Developer</h2>
+<h2 align="center">Python || Java & DSA || JAVA Script || HTML || CSS || Git & GitHUb || Web Developer</h2>
 
 <p align="left"> <a href="https://twitter.com/milindsangale" target="blank"><img src="https://img.shields.io/twitter/follow/milindsangale?logo=twitter&style=for-the-badge" alt="milindsangale" /></a> </p>
 
