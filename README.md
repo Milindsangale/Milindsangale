@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Milind Sangale</h1>
-<h3 align="center">Persuing B.Tech in Mechanical Engineering || DYPCOE Pune || Python || Java & DSA || JAVA Script || HTML || CSS || Microsoft Excel || Microsoft office 365 || Persuing JLPT N5</h3>
+<h3 align="center">Persuing B.Tech in Mechanical Engineering || DYPCOE Pune || Python || Java & DSA || JAVA Script || HTML || CSS ||</h3>
 
 - 👨‍💻 All of my projects are available at [https://milindsangale.github.io/sangalemilind.github.io/](https://milindsangale.github.io/sangalemilind.github.io/)
 
