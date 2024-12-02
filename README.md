@@ -8,8 +8,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://milindsangale.github.io/sangalemilind.github.io/](https://milindsangale.github.io/sangalemilind.github.io/)
-
+- 👨‍💻 All of my projects are available at https://sangalemilind-github-io.vercel.app/
 - 📫 Gmail **ermilindsangale9699@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
