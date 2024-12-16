@@ -7,6 +7,7 @@
 - 🔭 I’m currently Study in **Mechanical Engineering at D.Y.PATIL COLLEGE OF ENGINEERING AKURDI, PUNE**
 
 - 🌱 I’m currently learning **Machine Learning**
+- https://shorturl.at/OfliR
 
 - 👨‍💻 All of my projects are available at https://sangalemilind-github-io.vercel.app/
 - 📫 Gmail **ermilindsangale9699@gmail.com**
