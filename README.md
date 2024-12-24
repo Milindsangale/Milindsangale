@@ -5,9 +5,9 @@
 
 <p align="left">  <a href="https://twitter.com/milindsangale" target="blank"><img src="https://img.shields.io/twitter/follow/milindsangale?logo=twitter&style=for-the-badge" alt="milindsangale" /></a> </p>
 
-- 🔭 I’m currently Study in **Mechanical Engineering at D.Y.PATIL COLLEGE OF ENGINEERING AKURDI, PUNE**
+- 🔭 I’m currently Study in **Mechanical Engineering at D.Y.PATIL COLLEGE OF ENGINEERING AKURDI, PUNE.**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning.**
 
 - 👨‍💻 All of my projects are available at https://sangalemilind-github-io.vercel.app/
 - 📫 Gmail **ermilindsangale9699@gmail.com** 
