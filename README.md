@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Machine Learning.**
 
-- 👨‍💻 All of my projects are available at https://sangalemilind-github-io.vercel.app/
+- 👨‍💻 All of my projects are available at **https://sangalemilind-github-io.vercel.app/**
 - 📫 Gmail : **ermilindsangale9699@gmail.com** 
 - 📫 Personal Gmail : **smilind900@gmail.com**
 - 📞 Contact **9699921844**
