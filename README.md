@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Milind</h1>
 <h2 align="center"> Frontend & Backend Web Developer || Python || Java & DSA || JAVA Script || HTML || CSS || React || Bootstrap Node.js || Express.js || MongoDB ||  DataBase || API || Git & GitHub 
 </h2>
-   
 
+   
 
 <p align="left">  <a href="https://twitter.com/milindsangale" target="blank"><img src="https://img.shields.io/twitter/follow/milindsangale?logo=twitter&style=for-the-badge" alt="milindsangale" /></a> </p>
 
@@ -14,6 +14,7 @@
 - 📫 Gmail : **ermilindsangale9699@gmail.com** 
 - 📫 Personal Gmail : **smilind900@gmail.com**
 - 📞 Contact **9699921844**
+
 
 
 <h3 align="left">Connect with me:</h3>
