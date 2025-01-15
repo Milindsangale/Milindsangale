@@ -1,7 +1,7 @@
 ![Milind Sangale_20241228_223644_0000](https://github.com/user-attachments/assets/730f9b11-607b-44c6-bf06-3eb83f893486)
 
 <h1 align="center">Hi 👋, I'm Milind</h1>
-<h2 align="center"> Frontend & Backend Web Developer | Python | Java & DSA | JAVA Script | HTML | CSS | React | Bootstrap | Node.js | Express.js | MongoDB |  DataBase | API | Git & GitHub 
+<h2 align="center"> Frontend & Backend Web Developer | MERN Stack Developer | Java & DSA | JAVA Script | HTML | CSS | React | Bootstrap | Node.js | Express.js | MongoDB |  DataBase | API | Git & GitHub 
 </h2>
 
 
