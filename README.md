@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Milind</h1>
-<h2 align="center"> Frontend & Backend Web Developer | MERN | Java & DSA | JAVA Script | HTML | CSS | React | Bootstrap | Node.js | Express.js | MongoDB |  DataBase | API | Git & GitHub 
+<h2 align="center"> Frontend & Backend Web Developer | MERN Stack Developer | Java & DSA | JAVA Script | HTML | CSS | React | Bootstrap | Node.js | Express.js | MongoDB |  DataBase | API | Git & GitHub 
 </h2>
 
 
