@@ -3,8 +3,6 @@
 <h2 align="center"> Frontend & Backend Web Developer | MERN Stack Developer | Java & DSA | JAVA Script | HTML | CSS | React | Bootstrap | Node.js | Express.js | MongoDB |  DataBase | API | Git & GitHub 
 </h2>
 
-- About ME <h4 align="space-betweeny" >**Web Developer** with a strong foundation in Java and Data Structures and Algorithms, applying problem-solving skills to create efficient and user-friendly web applications.  Proficient in MERN stack development (MongoDB, Express.js, React, Node.js), JavaScript, HTML, CSS, and Bootstrap.</h4>
-  
 <p align="left">  <a href="https://twitter.com/milindsangale" target="blank"><img src="https://img.shields.io/twitter/follow/milindsangale?logo=twitter&style=for-the-badge" alt="milindsangale" /></a> </p>
 
 - 🔭 I’m currently Study in **Mechanical Engineering at D.Y.PATIL COLLEGE OF ENGINEERING AKURDI, PUNE.**
