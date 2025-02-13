@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Milind (ミリンドサンゲール)</h1>
-<h2 align="center"> Frontend & Backend Web Developer | MERN Stack Developer | Java & DSA | JAVA Script | HTML | CSS | React | Bootstrap | Node.js | Express.js | MongoDB |  DataBase | API | Git & GitHub 
+<h2 align="center"> Frontend & Backend Web Developer | Aspiring Software Engineer |  MERN Stack Developer | Java & DSA | JAVA Script | HTML | CSS | React | Bootstrap | Node.js | Express.js | MongoDB |  DataBase | API | Git & GitHub 
 </h2>
 
 <p align="left">  <a href="https://twitter.com/milindsangale" target="blank"><img src="https://img.shields.io/twitter/follow/milindsangale?logo=twitter&style=for-the-badge" alt="milindsangale" /></a> </p>
