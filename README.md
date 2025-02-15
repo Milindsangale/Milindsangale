@@ -1,4 +1,4 @@
-![Blue and Black Gradient Modern Graphic Designer LinkedIn Banner](https://github.com/user-attachments/assets/33f7b678-7a38-44de-b3ae-1a203c514dd1)
+
 <h1 align="center">Hi 👋, I'm Milind (ミリンドサンゲール)</h1>
 <h2 align="center"> Frontend & Backend Web Developer | Aspiring Software Engineer |  MERN Stack Developer | Java & DSA | JAVA Script | HTML | CSS | React | Bootstrap | Node.js | Express.js | MongoDB |  DataBase | API | Git & GitHub 
 </h2>
