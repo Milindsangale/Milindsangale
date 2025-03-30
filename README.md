@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Milind (ミリンドサンゲーレ)</h1>
 <h2 align="center"> Frontend & Backend Web Developer | Aspiring Software Engineer |  MERN Stack Developer | Java & DSA | JAVA Script | HTML | CSS | React | Bootstrap | Node.js | Express.js | MongoDB |  DataBase | API | Git & GitHub 
 </h2>
-
+<img src="https://i.postimg.cc/q7ggNG0h/octocat.png" align="right" width="275" />
 
 
 
